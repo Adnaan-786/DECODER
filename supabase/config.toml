@@ -1,0 +1,7 @@
+project_id = "tfgmtsbdpeudtmrzwehu"
+
+[functions.ocr-extract]
+verify_jwt = false
+
+[functions.translate-text]
+verify_jwt = false
