@@ -9,7 +9,7 @@ export const Header = () => {
             <Languages className="w-6 h-6" />
           </div>
           <div>
-            <h1 className="text-2xl font-bold">ScribeTranslate</h1>
+            <h1 className="text-2xl font-bold">DECODER-Translate</h1>
             <p className="text-sm text-primary-foreground/80">
               Nepali & Sinhalese to English Translation
             </p>
